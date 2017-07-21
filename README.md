@@ -1,0 +1,1 @@
+[livestreamer](https://github.com/chrippa/livestreamer) and [Twitch oauth](https://twitchapps.com/tmi) required
